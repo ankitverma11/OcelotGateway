@@ -7,11 +7,11 @@
       "UpstreamPathTemplate": "/gateway/students",
       "UpstreamHttpMethod": [ "Get","Post","Put", "Delete" ],
       "DownstreamPathTemplate": "/api/student",
-      "DownstreamScheme": "http",
+      "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 2001
+          "Port": 7295
         }
       ]
     },
@@ -19,11 +19,11 @@
       "UpstreamPathTemplate": "/gateway/students/{Id}",
       "UpstreamHttpMethod": [ "Get" ],
       "DownstreamPathTemplate": "/api/student/{Id}",
-      "DownstreamScheme": "http",
+      "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 2001
+          "Port": 7295
         }
       ]
     },
@@ -31,23 +31,23 @@
       "UpstreamPathTemplate": "/gateway/teachers",
       "UpstreamHttpMethod": [ "Get" ],
       "DownstreamPathTemplate": "/api/teacher",
-      "DownstreamScheme": "http",
+      "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 2002
+          "Port": 7012
         }
       ]
     },
     {
       "UpstreamPathTemplate": "/gateway/teacher/{Id}",
       "UpstreamHttpMethod": [ "Get" ],
-      "DownstreamPathTemplate": "/api/teachers/{Id}",
-      "DownstreamScheme": "http",
+      "DownstreamPathTemplate": "/api/teacher/{Id}",
+      "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 2002
+          "Port": 7012
         }
       ]
     }

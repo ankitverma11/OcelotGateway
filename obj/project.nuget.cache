@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lses8sctL0yfIgjj4Swhscw5gNAp9PsSZVDqnnJ5SNVDexrQIIXGPh7cT2BcUgCcGGxjirk3xgZyeOeo6TuYVA==",
+  "dgSpecHash": "3HxfIeVQyGF2BC0HvBduqLGUEHV48bamB2yTU2w2sKrp1Cx7QEVk+i6gVzh/KDj6/RJv5MWzFD4WD54CzckDGQ==",
   "success": true,
-  "projectFilePath": "/Users/ankitkumar/Projects/OcelotGateway/OcelotGateway/OcelotGateway.csproj",
+  "projectFilePath": "/Users/ankitkumar/Projects/OcelotGateway/OcelotGateway.csproj",
   "expectedPackageFiles": [
     "/Users/ankitkumar/.nuget/packages/fluentvalidation/10.3.6/fluentvalidation.10.3.6.nupkg.sha512",
     "/Users/ankitkumar/.nuget/packages/microsoft.aspnetcore.jsonpatch/6.0.1/microsoft.aspnetcore.jsonpatch.6.0.1.nupkg.sha512",

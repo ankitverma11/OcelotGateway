@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ankitkumar/Projects/OcelotGateway/OcelotGateway/OcelotGateway.csproj": {}
+    "/Users/ankitkumar/Projects/OcelotGateway/OcelotGateway.csproj": {}
   },
   "projects": {
-    "/Users/ankitkumar/Projects/OcelotGateway/OcelotGateway/OcelotGateway.csproj": {
+    "/Users/ankitkumar/Projects/OcelotGateway/OcelotGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ankitkumar/Projects/OcelotGateway/OcelotGateway/OcelotGateway.csproj",
+        "projectUniqueName": "/Users/ankitkumar/Projects/OcelotGateway/OcelotGateway.csproj",
         "projectName": "OcelotGateway",
-        "projectPath": "/Users/ankitkumar/Projects/OcelotGateway/OcelotGateway/OcelotGateway.csproj",
+        "projectPath": "/Users/ankitkumar/Projects/OcelotGateway/OcelotGateway.csproj",
         "packagesPath": "/Users/ankitkumar/.nuget/packages/",
-        "outputPath": "/Users/ankitkumar/Projects/OcelotGateway/OcelotGateway/obj/",
+        "outputPath": "/Users/ankitkumar/Projects/OcelotGateway/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ankitkumar/.nuget/NuGet/NuGet.Config"
